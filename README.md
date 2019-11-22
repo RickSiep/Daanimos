@@ -19,7 +19,7 @@ Hoe run je dit project? Voor dit project zijn een paar requirements voordat je h
  - Node.js
  - Yarn
 
-    ```yarn```
+    ```yarn```   
     ```node index.js```
 
 ## Contributors
